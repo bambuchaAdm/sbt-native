@@ -1,0 +1,4 @@
+* sbt-native
+
+This is pet project for building native stuff (C/C++) using SBT and ivy dependency resolving.
+
